@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+.superpowers/
+models/
+tools/UnityCapture/
+references/
+*.onnx
+*.jpg
+*.jpeg
+*.png
+*.zip
